@@ -1,0 +1,15 @@
+¿Que es internet?
+
+Describe los medios fisicos y de programación  de ondas por los uqe se transmite la info en internet
+
+¿Como se organiza internet, direccines de ip y DNS?
+
+Descrive el procedimiento por el cual una cancion de spotifi llega del servidor de la compania a tu celular
+
+Descrive los protocolos que existen en internet, en espesifico HTML y HTTP  
+
+En dos parrafos cuentanos lo que aprendiste sobre encriptación y llaves publicas
+
+En dos parrafos cuentanos lo que aprendiste sobre como protejerte de criminales en internet
+
+¿Como funsiona las buscedas de google?
