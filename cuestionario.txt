@@ -18,9 +18,14 @@ Descrive el procedimiento por el cual una cancion de spotifi llega del servidor 
 Pasa por los servers y filtros de cuenta de spotify y redirreciona hacia tu cuenta/celular.
 
 Descrive los protocolos que existen en internet, en espesifico HTML y HTTP  
+HTTP (HyperText Transfer Protocol) El HTML es el lenguaje utilizado para codificar la información en los recursos web.
 
 En dos parrafos cuentanos lo que aprendiste sobre encriptación y llaves publicas
+lo que aprendi fue ciclar datos y cualquiera pueda usar mensajes secretos
 
 En dos parrafos cuentanos lo que aprendiste sobre como protejerte de criminales en internet
+lo que aprendi es que tienen metodos para inadir personas
 
-¿Como funsiona las buscedas de google?
+Como funcionan las busquedas de google
+Rastreo: Google explora la Web con programas automatizados, llamados rastreadores, que buscan páginas nuevas o actualizadas. ...
+Indexación: Google visita las páginas que ha descubierto mediante el rastreo e intenta saber de qué trata cada una.
